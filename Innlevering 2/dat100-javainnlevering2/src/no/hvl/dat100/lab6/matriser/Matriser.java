@@ -6,8 +6,8 @@ public class Matriser {
 	public static void skrivUt(int[][] matrise) {
 
 		for (int[] rad : matrise) {
+			System.out.println();
 			for (int x : rad) {
-				System.out.println();
 				System.out.print(x + " ");
 			}
 		}
