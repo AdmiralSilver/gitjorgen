@@ -10,7 +10,7 @@ public class Tabeller {
 		}
 		System.out.println();
 	}
-
+// testtest
 	// b)
 	public static String tilStreng(int[] tabell) {
 
